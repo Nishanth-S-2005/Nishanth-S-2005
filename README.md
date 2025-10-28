@@ -37,8 +37,8 @@ I believe progress comes from learning something new every day — and I’ve be
 - 💎 **Daily Streak – Diamond Badge**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=tokyonight" alt="Languages Chart" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Coding Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth-S-2005&layout=donut&theme=tokyonight" alt="Languages Chart" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishanth-S-2005&theme=tokyonight" alt="Coding Streak" height="170"/>
 </p>
 
 ---
